@@ -1,0 +1,41 @@
+PENDAMPING AKADEMIK — PENDIDIKAN PANCASILA KELAS I SD/MI
+BAB 1: AKU DAN TEMAN-TEMANKU — VERSI 1.0
+
+ISI PAKET
+- index.html : pintu masuk Bab 1 (halaman 1)
+- halaman-01.html s.d. halaman-32.html : 32 halaman pembahasan lengkap
+- gaya.css : tampilan responsif hijau-emas
+- interaksi.js : tombol dengar, kuis, dan kemajuan belajar
+- KREDIT_FOTO.md : sumber foto dan lisensinya
+- KODE_BLOGGER.txt : contoh penyisipan iframe Blogger
+
+PETUNJUK
+1. Ekstrak ZIP.
+2. Unggah SEMUA file di dalam folder yang sama ke repositori GitHub, misalnya:
+   pendamping-akademik/pendidikan-pancasila/kelas-1/bab-1/
+3. Pastikan GitHub Pages sudah aktif pada branch dan folder yang tepat.
+4. Buka URL lengkap yang mengarah ke index.html.
+5. Untuk Blogger, tempel kode pada KODE_BLOGGER.txt ke mode HTML halaman Blogger,
+   lalu ganti URL contoh dengan URL GitHub Pages yang sebenarnya.
+6. Setiap pembaruan materi cukup mengganti file HTML/CSS/JS yang berubah.
+
+PERHATIAN
+- Foto REAL berasal dari Wikimedia Commons dan diambil melalui internet. Untuk penggunaan offline,
+  foto harus diunduh secara sah dan URL-nya diganti ke berkas lokal.
+- Beberapa foto anak pada sumber bukan siswa kelas I; foto dipakai sebagai contoh konteks pendidikan,
+  bukan dokumentasi tokoh Bima/Siti/Rani.
+- Pembaca suara menggunakan speechSynthesis peramban; suara id-ID bergantung perangkat.
+- Kemajuan disimpan pada browser/perangkat yang dipakai, tanpa dikirim ke server.
+- Tidak menggunakan mikrofon, Supabase, atau identitas siswa.
+- Kuis berupa latihan formatif sederhana, bukan asesmen diagnostik yang tervalidasi.
+- Paket dibuat mengikuti cakupan 4 bab/13 subbab yang telah dirancang sebelumnya;
+  perluasan 26 materi/78 submateri adalah pengembangan, bukan kutipan verbatim buku pemerintah.
+
+JUDUL HALAMAN BLOGGER (SEO)
+Pendidikan Pancasila Kelas 1 SD/MI Bab 1: Aku dan Teman-Temanku | Materi Lengkap
+
+DESKRIPSI PENELUSURAN (SEO)
+Belajar Pendidikan Pancasila kelas 1 SD/MI Bab 1 Aku dan Teman-Temanku: mengenal diri, menghargai teman, aturan bermain, proyek dan latihan interaktif.
+
+LABEL BLOGGER
+Pendidikan Pancasila, Kelas 1 SD, Kurikulum Merdeka, Materi SD, Bab 1, Pendamping Akademik
